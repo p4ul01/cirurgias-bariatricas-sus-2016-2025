@@ -1,0 +1,4 @@
+Variavel;Teste;Estatistica;Gl;P_valor;P_valor_formatado;Tamanho_Efeito;Medida_Efeito;Significativo;Células_Esperados_Baixas
+Sexo;Qui-Quadrado;55.37792196996534;3;5.702767141061704e-12;p-valor<0,001;0.02506780446530691;V de Cramer;True;0
+Região de Residência;Qui-Quadrado;22471.451534867432;12;0.0;p-valor<0,001;0.2915431935935857;V de Cramer;True;0
+UF de Residência;Qui-Quadrado;44016.59704292989;75;0.0;p-valor<0,001;0.4080332697207268;V de Cramer;True;18

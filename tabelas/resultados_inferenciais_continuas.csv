@@ -1,0 +1,4 @@
+Variavel;Teste;Estatistica;Gl;P_valor;P_valor_formatado;Tamanho_Efeito;Medida_Efeito;Significativo
+Idade (anos);Kruskal-Wallis;582.6907883690427;3;5.6977781053385953e-126;p-valor<0,001;0.006578275440514772;ε²;True
+Dias de Permanência;Kruskal-Wallis;1989.2140595395658;3;0.0;p-valor<0,001;0.022539366554771408;ε²;True
+Custo Total (R$);Kruskal-Wallis;2865.069140202152;3;0.0;p-valor<0,001;0.0324784859649367;ε²;True

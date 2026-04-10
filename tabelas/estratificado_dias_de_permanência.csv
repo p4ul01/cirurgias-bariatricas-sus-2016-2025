@@ -1,0 +1,5 @@
+Procedimento,N,Média,Mediana,Desvio Padrão,Mínimo,Máximo,Q1 (25%),Q3 (75%)
+Derivação Gástrica (Bypass),62263,2.8347814914154474,2.0,2.2112843852084523,0,87,2.0,3.0
+Gastrectomia Vertical (Manga),1796,4.022271714922049,3.0,3.955117916494047,0,79,3.0,4.0
+Banda Gástrica Ajustável,490,4.2877551020408164,3.0,3.990896217497888,0,41,3.0,4.0
+Cirurgia Bariátrica Videolaparoscópica,23577,2.5628790770666328,2.0,2.1990087049321843,0,88,2.0,3.0

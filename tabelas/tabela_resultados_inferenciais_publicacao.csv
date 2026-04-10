@@ -1,0 +1,7 @@
+Variavel;Tipo_Variavel;Teste_Estatistico;Estatistica;Graus_Liberdade;P_valor;Tamanho_Efeito;Medida_Efeito;Significativo
+Idade (anos);Contínua;Kruskal-Wallis;582.69;3;p-valor<0,001;0.007;ε²;Sim
+Dias de Permanência;Contínua;Kruskal-Wallis;1989.21;3;p-valor<0,001;0.023;ε²;Sim
+Custo Total (R$);Contínua;Kruskal-Wallis;2865.07;3;p-valor<0,001;0.032;ε²;Sim
+Sexo;Categórica;Qui-Quadrado;55.38;3;p-valor<0,001;0.025;V de Cramer;Sim
+Região de Residência;Categórica;Qui-Quadrado;22471.45;12;p-valor<0,001;0.292;V de Cramer;Sim
+UF de Residência;Categórica;Qui-Quadrado;44016.60;75;p-valor<0,001;0.408;V de Cramer;Sim
