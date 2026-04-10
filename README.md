@@ -57,4 +57,3 @@ Todos os resultados são salvos automaticamente na pasta resultados_analise_bari
 
     Tabelas: Formato .xlsx compatível com editores de texto (ex.: Word).  
     Gráficos e mapas: Resolução de 600 DPI para publicação científica.  
-    Relatório HTML: Versão interativa para verificação detalhada dos resultados.
