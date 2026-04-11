@@ -47,9 +47,10 @@ Instale as dependências:
 
 Execute o script:  
 
-	python analise.ipynb
+jupyter nbconvert --to notebook --execute analise.ipynb 
 
-    Observação: O tempo de execução varia conforme o hardware.  
+    ou abra dentro da sua IDE
+	Observação: O tempo de execução varia conforme o hardware.  
 
 Saídas Geradas
 
