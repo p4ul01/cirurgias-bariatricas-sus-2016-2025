@@ -54,7 +54,7 @@ jupyter nbconvert --to notebook --execute analise.ipynb
 
 Saídas Geradas
 
-Todos os resultados são salvos automaticamente na pasta resultados_analise_bariatrica/, prontos para inclusão no artigo:  
+Todos os resultados são salvos automaticamente na pasta resultados_analise_bariatrica/:  
 
     Tabelas: Formato .xlsx compatível com editores de texto (ex.: Word).  
     Gráficos e mapas: Resolução de 600 DPI para publicação científica.  
