@@ -25,7 +25,7 @@ Os dados utilizados foram obtidos do DATASUS (Sistema de Informações Hospitala
 Instruções para Reprodução:  
 
     Baixe os arquivos Parquet do SIH/SUS referentes aos anos de 2016 a 2025.  
-    Organize-os na pasta dados_sih/ seguindo o padrão de nomeação: SIH_{ANO}.Parquet.  
+    Organize-os na pasta data/ seguindo o padrão de nomeação: SIH_{ANO}.Parquet.  
     Certifique-se de que os dados contenham as colunas:
     	["ESTADO_ORIGEM", "PROC_REA", "VAL_TOT", "DIAS_PERM", "IDADE", "SEXO"]  
 
