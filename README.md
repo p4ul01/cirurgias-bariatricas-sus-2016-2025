@@ -12,7 +12,7 @@ Estrutura de Arquivos
         tabelas/: Tabelas em formato Excel (.xlsx) com resultados estatísticos.  
         graficos/: Figuras de alta resolução (.png) para inclusão no artigo.  
         mapas/: Mapas coropléticos das regiões do Brasil.  
-        relatorio_completo.html: Relatório interativo com todos os resultados.
+        relatorio_: Relatório com todos os resultados.
         lista_figuras_submissao.csv
         resumo_final_submissao.csv
 
