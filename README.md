@@ -9,7 +9,7 @@ Estrutura de Arquivos
     
     resultados_analise_bariatrica: Diretório onde são salvos automaticamente:  
         dados_processados/: Dados que foram processados para analise
-        tabelas/: Tabelas em formato Excel (.xlsx) com resultados estatísticos.  
+        tabelas/: Tabelas em formato Excel (.xlsx) e Comma Separated Values (.csv) com resultados estatísticos.  
         graficos/: Figuras de alta resolução (.png) para inclusão no artigo.  
         mapas/: Mapas coropléticos das regiões do Brasil.  
         relatorio_: Relatório com todos os resultados.
